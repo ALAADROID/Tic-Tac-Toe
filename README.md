@@ -1,4 +1,4 @@
-Markdown
+
 # Tic-Tac-Toe Game in C++
 
 A cross-platform, console-based Tic-Tac-Toe game featuring custom rendering interfaces, comprehensive input validation, and dedicated gameplay tracks against an automated computer opponent or a second physical player.
