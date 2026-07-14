@@ -3,6 +3,11 @@
 
 A cross-platform, console-based Tic-Tac-Toe game featuring custom rendering interfaces, comprehensive input validation, and dedicated gameplay tracks against an automated computer opponent or a second physical player.
 
+## 🆕 Latest Update (v1.0.1)  
+
+This release focuses on code maintainability and documentation. The core game logic remains stable, with improved code readability and standardized inline documentation to facilitate future contributions and ease of navigation.
+
+
 ## Features
 
 ✅ **Dual Gameplay Tracks:** Supports both Single Player (vs. PC-Alaa-Droid) and local Two-Player competitive modes.  
