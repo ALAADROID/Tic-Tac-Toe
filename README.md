@@ -19,21 +19,14 @@ This release focuses on code maintainability and documentation. The core game lo
 
 ## Screenshots
 
-### Main Menu
+|Main Menu|Gameplay|
+|---|---|
+|![Main Menu](assets/Main-menu.png)|![Gameplay](assets/Gameplay.png)|
 
-![Main Menu](assets/main-menu.png)
 
-### Gameplay
-
-![Gameplay](assets/gameplay.png)
-
-### Victory
-
-![Victory](assets/victory.png)
-
-### Draw
-
-![Draw](assets/draw.png)
+|Victory|Draw|
+|---|---|
+|![Victory](assets/Victory.png)|![Draw](assets/Draw.png)|
 
 
 ## How It Works
