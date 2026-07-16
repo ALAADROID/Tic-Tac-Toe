@@ -16,6 +16,26 @@ This release focuses on code maintainability and documentation. The core game lo
 ✅ **Randomized Game Seed Engine:** Uses internal Unix timestamps to guarantee unique automated computer move paths each game.  
 ✅ **Written in Pure C++:** Utilizes standard library operations for clean performance and execution.  
 
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](assets/main-menu.png)
+
+### Gameplay
+
+![Gameplay](assets/gameplay.png)
+
+### Victory
+
+![Victory](assets/victory.png)
+
+### Draw
+
+![Draw](assets/draw.png)
+
+
 ## How It Works
 
 1. The user selects a game execution path (1 for Single Player, 2 for Two-Player).  
