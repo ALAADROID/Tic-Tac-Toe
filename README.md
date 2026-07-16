@@ -50,4 +50,6 @@ Ensure your console environment supports UTF-8 character encoding and ANSI escap
 
 On Windows systems, you can execute the program smoothly using modern terminal emulators, PowerShell configurations, or WSL (Windows Subsystem for Linux).
 
-Developed by Muhammed Alaa Tahhan
+---
+
+**Developed by [ALAADROID](https://github.com/ALAADROID)**
